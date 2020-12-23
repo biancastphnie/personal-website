@@ -1,0 +1,48 @@
+h1 {
+    color: #e5cdfb; 
+    font-family: Georgia, serif; 
+    text-shadow: -4px 4px 6px #ffffff; 
+    text-align: center;
+}
+p {
+    color: #b2b2b2; 
+    font-family: sans-serif; 
+    font-style: italic; 
+    font-weight: bold;
+}
+h2 {
+    color: #b2b2b2; 
+    font-family: sans-serif; 
+    font-style: italic; 
+    letter-spacing: 4px;
+}
+ul {
+    color: #b2b2b2; 
+    font-family: sans-serif; 
+    font-style: italic; 
+    letter-spacing: 4px;
+}
+ol {
+    color: #b2b2b2; 
+    font-family: sans-serif; 
+    font-style: italic; 
+    letter-spacing: 2px;
+}
+a {
+    color: #defcff
+}
+h3 {
+    color: #b2b2b2; 
+    font-family: sans-serif; 
+    font-style: italic; 
+    text-shadow: 0px 0px 14px #ffffff;
+}
+.links {
+    color: #b2b2b2;
+}
+.desc {
+    font-weight: lighter;
+    text-shadow: -4px 4px 6px #ffffff;
+    text-align: center;
+    letter-spacing: 4px;
+}
