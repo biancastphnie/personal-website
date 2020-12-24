@@ -29,16 +29,13 @@ ol {
     letter-spacing: 2px;
 }
 a {
-    color: #defcff
+    color: #b2b2b2;
 }
 h3 {
     color: #b2b2b2; 
     font-family: sans-serif; 
     font-style: italic; 
     text-shadow: 0px 0px 14px #ffffff;
-}
-.links {
-    color: #b2b2b2;
 }
 .desc {
     font-weight: lighter;
